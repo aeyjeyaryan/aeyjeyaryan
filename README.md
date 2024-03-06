@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aeyjeyaryan
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning, GenAI & NLP
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Creating AI based Applications
 
 <!---
 aeyjeyaryan/aeyjeyaryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
