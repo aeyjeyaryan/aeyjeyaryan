@@ -1,7 +1,7 @@
 # INTRODUCTION
 👋 Hi, I'm Aryan Jha, a first-year student pursuing B.Tech in Computer Science Engineering. I'm passionate about Artificial Intelligence and Machine Learning, with a focus on creating impactful models and solutions.
 
-👥As a member of GDSC MMDU, I actively engage in exploring the latest trends in AI and ML.
+👥As a core team member of GDSC MMDU, I actively engage in exploring the latest trends in AI and ML and apply them to my code. I have a deep understanding of the concepts of AI/ML which I am looking to apply to my upcoming projects.
 
 ⛹️Beyond technology, I excel in creating engaging presentations and have a solid proficiency in Microsoft Office. In my free time, I enjoy playing Basketball, Cricket, Football, and Tennis, constantly striving to learn and grow.
 
