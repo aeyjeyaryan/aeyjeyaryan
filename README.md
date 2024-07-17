@@ -5,14 +5,14 @@ Hi, I'm Aryan!
 Let's talk tech!
 
 
-# Programming Languages
-Python | C 
+# Stuff I Know
+Python | C | Java | MySQL | 
 
-# Libraries
+# Libraries and Frameworks
 Numpy | Pandas | Matplotlib | Seaborn | Sci-kit Learn | Tensorflow | NLTK | Textblob | Spacy | 
 
 # IDEs
-Google Colab | VS Code | Jupyter Notebook 
+PyCharm | Google Colab | VS Code | Jupyter Notebook 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-jha-63bab3288/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aeyyjeyy98) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aryanjha2005) 
