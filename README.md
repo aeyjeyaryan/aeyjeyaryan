@@ -9,4 +9,4 @@ I am Aryan and I like to code! :)
 
  **I like watching Marvel :)**
 
- # Connect only if you know why is Gamora? 
+ **Connect only if you know why is Gamora?**
