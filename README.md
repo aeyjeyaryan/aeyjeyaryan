@@ -7,6 +7,6 @@ I am Aryan and I like to code! :)
 <img width="1033" alt="Screenshot 2024-12-09 at 7 12 27 PM" src="https://github.com/user-attachments/assets/ba656785-b680-4d64-b744-31b0ec1f15eb">
 
 
- I like watching Marvel :)
+ **I like watching Marvel :)**
 
- Connect only if you know why is Gamora? 
+ # Connect only if you know why is Gamora? 
