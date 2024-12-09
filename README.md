@@ -4,7 +4,7 @@ I am Aryan and I like to code! :)
 
 ## Tech Stack
 
-<img width="1033" alt="Screenshot 2024-12-09 at 7 12 27 PM" src="https://github.com/user-attachments/assets/ba656785-b680-4d64-b744-31b0ec1f15eb">
+<img width="1043" alt="Screenshot 2024-12-09 at 9 18 54 PM" src="https://github.com/user-attachments/assets/2b3e95b7-270b-49cf-9ccf-7c2a95ed1648">
 
 
  **I like watching Marvel :)**
