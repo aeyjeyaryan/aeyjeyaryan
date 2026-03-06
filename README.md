@@ -2,12 +2,9 @@
 
 ![tony_stark_iron_man__mk_4___what_if_____png_by_iwasboredsoididthis_di28q2j-pre (1)](https://github.com/user-attachments/assets/280c8f17-f2e2-480b-a113-baa03153edec)
 
-# My Name is Aryan
 
 
-<img width="501" alt="Screenshot 2025-01-15 at 12 48 19 PM" src="https://github.com/user-attachments/assets/b8307ea7-93ba-4d4c-9cd0-662bb0dd8412" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=E62429&center=true&vCenter=true&width=700&lines=I+am+Iron+Man;Genius.+Billionaire.+Playboy.+Philanthropist.;AI+%26+ML+Engineer;Building+the+Future%2C+One+Model+at+a+Time;With+Great+Power+Comes+Great+Responsibility" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=With+Great+Power+Comes+Great+Responsibility;We+Are+Groot;Fine%2C+I%E2%80%99ll+Do+It+Myself;I+Am+Iron+Man;Part+Of+The+Journey+Is+The+End" alt="Typing SVG" />
 
 
 
@@ -15,10 +12,6 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ### 💎 Machine Learning & AI
